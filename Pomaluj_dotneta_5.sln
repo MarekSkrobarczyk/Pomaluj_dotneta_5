@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pomaluj_dotneta_5", "Pomaluj_dotneta_5\Pomaluj_dotneta_5.csproj", "{FE64D1D1-8A72-4EDB-A5E3-2151563F1ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE64D1D1-8A72-4EDB-A5E3-2151563F1ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE64D1D1-8A72-4EDB-A5E3-2151563F1ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE64D1D1-8A72-4EDB-A5E3-2151563F1ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE64D1D1-8A72-4EDB-A5E3-2151563F1ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B1CC57C-08E1-41FC-96AF-9E7E9C0D1E0F}
+	EndGlobalSection
+EndGlobal
